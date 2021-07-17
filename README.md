@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img align="center" alt="Imagem trybe" src="https://t2.tudocdn.net/572277?w=646&h=284" width="400px" />
-</h1>
+</p>
 
 <h3 align="center">
   Cursos realizados na rocketseat - Edu Souza o/
