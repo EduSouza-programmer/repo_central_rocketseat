@@ -55,10 +55,10 @@ _ps: aqui constam todos os projetos que foram realizados na rocketseat._ :runnin
 | :----------: | :-------- | :---------: | :----: |
 | em andamento | ...       |      -      |   -    |
 
-
+<br/>
 <!-- _ps: A tabela acima será sempre atualizada conforme vou realizando outros cursos o/._ :smile: -->
 
-#### Tabela dos desafios (em andamento) :clipboard:
+#### Tabela dos desafios :clipboard:
 
 | desafio | descrição                                                                                                   |                                   repositório                                   |
 | :-----: | :---------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------: |
