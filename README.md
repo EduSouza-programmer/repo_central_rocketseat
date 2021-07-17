@@ -49,11 +49,11 @@ _ps: aqui constam todos os projetos que foram realizados na rocketseat._ :runnin
 
 ## :postbox: Entrega
 
-#### Tabela dos treinamentos :clipboard:
+#### Tabela dos treinamentos (em andamento) :clipboard:
 
-|    semana    | descrição                                                                  | repositório |  deploy  |
-| :----------: | :------------------------------------------------------------------------- | :---------: | :------: |
-| OmniStack 10 | Este projeto consiste no desenvolvimento de um Tinder para desenvolvedores |  [Link]()   | [Page]() |
+|     semana      | descrição | repositório | deploy |
+| :-------------: | :-------- | :---------: | :----: |
+| em andamento | ...       |      -      |   -    |
 
 
 _ps: A tabela acima será sempre atualizada conforme vou realizando outros cursos o/._ :smile:
