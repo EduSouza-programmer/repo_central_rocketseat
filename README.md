@@ -70,6 +70,7 @@ _ps: aqui constam todos os projetos que foram realizados na rocketseat._ :runnin
 |   2-2   | A partir do arquivo do desafio 2-1, adicionar um novo link no header chamado Sobre.                         | [Link](https://github.com/EduSouza-programmer/Rocketseat_Desafio-2-2_Edu_Souza) |
 
 
+<br/>
 
 #### Considerações finais
 
