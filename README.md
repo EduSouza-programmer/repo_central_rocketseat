@@ -32,6 +32,8 @@
   <a href="#unlock-Licença">Licença</a>
 </p>
 
+<br/>
+
 ## :rocket: Sobre os cursos
 
 #### Meu aprendizando na rocketseat!
@@ -46,6 +48,8 @@ Recomendo a rocketseat para todos sempre que eu posso, não só ela como outros 
 - Tabela com os projetos realizados nos cursos, com o link do repositório referente;
 
 _ps: aqui constam todos os projetos que foram realizados na rocketseat._ :running:
+
+<br/>
 
 ## :postbox: Entrega
 
@@ -76,7 +80,7 @@ _ps: aqui constam todos os projetos que foram realizados na rocketseat._ :runnin
 
 Infelizmente, como pode ter notado, ainda falta organizar muitas coisas que fiz na rocketseat aqui neste repositório, mas estou muito feliz com o conhecimento adquirido em cada processos de bootcamps e treinamentos, além do mais me sinto orgulhoso e confiante que estou sempre avançando para os proximos níveis. Só tenho que agradecer o trabalho fantástico desse time :rocket:.
 
-#
+<br/>
 
 ## :unlock: Licença
 
