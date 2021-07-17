@@ -51,16 +51,16 @@ _ps: aqui constam todos os projetos que foram realizados na rocketseat._ :runnin
 
 #### Tabela dos treinamentos (em andamento) :clipboard:
 
-|     semana      | descrição | repositório | deploy |
-| :-------------: | :-------- | :---------: | :----: |
+|    semana    | descrição | repositório | deploy |
+| :----------: | :-------- | :---------: | :----: |
 | em andamento | ...       |      -      |   -    |
 
 
-_ps: A tabela acima será sempre atualizada conforme vou realizando outros cursos o/._ :smile:
+<!-- _ps: A tabela acima será sempre atualizada conforme vou realizando outros cursos o/._ :smile: -->
 
 #### Considerações finais
 
-Foi muito enriquecedor, de um diferencial enorme e abrangente, sobretudo na aprendizagem em CSS, os cursos da origamid são top! Um execelente trabalho de ensino com experiência, método e dicas do André Rafael. Indico a todos o seu treinamento, seja para um iniciante ou já intermediário em web developer.
+Infelizmente, como pode ter notado, ainda falta organizar muitas coisas que fiz na rocketseat aqui neste repositório, mas estou muito feliz com o conhecimento adquirido em cada processos de bootcamps e treinamentos, além do mais me sinto orgulhoso e confiante que estou sempre avançando para os proximos níveis. Só tenho que agradecer o trabalho fantástico desse time :rocket:.
 
 #
 
