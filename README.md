@@ -58,6 +58,19 @@ _ps: aqui constam todos os projetos que foram realizados na rocketseat._ :runnin
 
 <!-- _ps: A tabela acima será sempre atualizada conforme vou realizando outros cursos o/._ :smile: -->
 
+#### Tabela dos desafios (em andamento) :clipboard:
+
+| desafio | descrição                                                                                                   |                                   repositório                                   |
+| :-----: | :---------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------: |
+|   1-1   | Desafios para fortalecer alguns conceitos, entre eles: Variáveis; Condicionais; Operadores.                 | [Link](https://github.com/EduSouza-programmer/Rocketseat_Desafio-1-1_Edu_Souza) |
+|   1-2   | Desafios para fortalecer alguns conceitos, entre eles: Objetos, Vetores.                                    | [Link](https://github.com/EduSouza-programmer/Rocketseat_Desafio-1-2_Edu_Souza) |
+|   1-3   | Desafios para fortalecer alguns conceitos, entre eles: Funções e métodos; Estruturas de repetição; Escopos. | [Link](https://github.com/EduSouza-programmer/Rocketseat_Desafio-1-3_Edu_Souza) |
+|   1-4   | Desafios para fortalecer alguns conceitos, entre eles: Booleanos; Organização; Padronização; Escrita.       | [Link](https://github.com/EduSouza-programmer/Rocketseat_Desafio-1-4_Edu_Souza) |
+|   2-1   | Criar um arquivo html que contenha um favicon e um header com 3 links: Comunidade, Email e Telefone.        | [Link](https://github.com/EduSouza-programmer/Rocketseat_Desafio-2-1_Edu_Souza) |
+|   2-2   | A partir do arquivo do desafio 2-1, adicionar um novo link no header chamado Sobre.                         | [Link](https://github.com/EduSouza-programmer/Rocketseat_Desafio-2-2_Edu_Souza) |
+
+
+
 #### Considerações finais
 
 Infelizmente, como pode ter notado, ainda falta organizar muitas coisas que fiz na rocketseat aqui neste repositório, mas estou muito feliz com o conhecimento adquirido em cada processos de bootcamps e treinamentos, além do mais me sinto orgulhoso e confiante que estou sempre avançando para os proximos níveis. Só tenho que agradecer o trabalho fantástico desse time :rocket:.
