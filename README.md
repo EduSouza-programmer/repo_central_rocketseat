@@ -44,10 +44,10 @@ Recomendo a rocketseat para todos sempre que eu posso, não só ela como outros 
 
 #### Abaixo você vai encontrar:
 
-- Uma coletanea de cursos ou semanas especiais que realizei na rocketseat;
+- Uma coletanea de cursos, semanas especiais ou desafios que realizei na rocketseat;
 - Tabela com os projetos realizados nos cursos, com o link do repositório referente;
 
-_ps: aqui constam todos os projetos que foram realizados na rocketseat._ :running:
+_ps: aqui constam todos os projetos que foram realizados na rocketseat._ :running: (em andamento)
 
 <br/>
 
