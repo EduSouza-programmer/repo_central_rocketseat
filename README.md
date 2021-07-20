@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="Imagem trybe" src="https://t2.tudocdn.net/572277?w=646&h=284" width="400px" />
+  <img align="center" alt="Imagem rocketseat" src="https://t2.tudocdn.net/572277?w=646&h=284" width="400px" />
 </p>
 
 <h3 align="center">
